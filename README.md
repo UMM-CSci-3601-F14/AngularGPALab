@@ -41,6 +41,7 @@ Setup
 Some resources
 ==============
    * https://thinkster.io/egghead/testing-overview/ - video of testing a filter
+   * https://thinkster.io/angulartutorial/learn-to-build-realtime-webapps/ - some help for deleting or updating only certain items in a repeat (for example, to delete just one specific item - look for $index in the page linked here for more information)
 
 GPA Calculator Image Examples
 =============================
